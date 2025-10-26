@@ -15,6 +15,17 @@ The modified file is saved as `<original-name>-converted.exe`.
 
 ---
 
+## Example
+.Net packed with VMProtect and unpacked
+
+Before
+
+<img width="1140" height="450" alt="image" src="https://github.com/user-attachments/assets/b8fce0d1-6eab-4e61-9a6b-c2b25e033f1a" />
+
+After
+
+<img width="676" height="470" alt="image" src="https://github.com/user-attachments/assets/7301d2b0-1b71-4ab3-a51a-12b8989a7402" />
+
 ## Requirements
 - .NET Framework 4.8  
 - NuGet package: `dnlib`
